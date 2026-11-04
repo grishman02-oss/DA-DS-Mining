@@ -15,7 +15,9 @@
 #for first push => git push -u origin branch_name
 # -u => upstream => stores the current branch => main
 #now, for every next push, we donot need to give branch name, we can simply do git push
-#now git push pushes the code into master branch because master was stored in upstream
+# now git push pushes the code into master branch because master was stored in upstream
+# 
+
 
 
 
